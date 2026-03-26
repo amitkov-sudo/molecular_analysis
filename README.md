@@ -3,7 +3,7 @@
 A Python script that reads a molecular structure from an `.xyz` file and computes a few basic “molecular analysis” properties: total electron count, a simple multiplicity estimate, molecular charge, and vibrational degrees of freedom.
 
 Version: `0.1`  
-Developed by: `Alyx Mitkov` (as referenced in the script output)
+Developed by: `Alxx Mitkov`
 
 ## What it does
 
